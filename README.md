@@ -40,7 +40,7 @@ The following diagram shows the full event-driven architecture of the system.
 9. Execution logs are stored in **CloudWatch Logs**.
 <!-- -------------------------------------------------- -->
 ## Repository Structure
-![S3 Buckets](docs/images/repository_structure.svg)
+![S3 Buckets](docs/images/repository_structure.png)
 <!-- -------------------------------------------------- -->
 ## S3 Buckets
 <!-- -------------------------------------------------- -->
