@@ -1,0 +1,7 @@
+{
+  "Records": [
+    {
+      "body": "{\"Message\": \"{\\\"bucket\\\": \\\"tech-billing-raw-data-axelbarrantes\\\", \\\"key\\\": \\\"fail.csv\\\", \\\"error\\\": \\\"Simulated failure triggered\\\"}\"}"
+    }
+  ]
+}
