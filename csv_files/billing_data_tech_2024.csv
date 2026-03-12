@@ -1,0 +1,11 @@
+id,company_name,country,city,product_line,item,bill_date,currency,bill_amount
+1,Cloud Nexus,US,San Antonio,Object Storage,S3 Standard Bucket,2024-05-01,USD,1250
+2,CyberGuard MX,MX,Mexico City,Object Storage,Fsx for lustre,2024-05-02,MXN,45000
+3,Data Insights Ltd,CA,Toronto,Object Storage,Big Data Query Engine,2024-05-03,CAD,8200
+4,Global Connectivity,US,Chicago,Object Storage,SSD,2024-05-04,USD,3100
+5,Compute Core Inc,US,New York,Object Storage,HDD,2024-05-05,USD,5400
+6,Northern Tech,CA,Vancouver,Object Storage,Archival Cold Storage,2024-05-06,CAD,2100
+7,Secure Stream,MX,Monterrey,Object Storage,EBS Encyption,2024-05-07,MXN,28500
+8,Logic Analytics,CA,Montreal,Object Storage,Backup,2024-05-08,CAD,6700
+9,Aztec Net Solutions,MX,Guadalajara,Object Storage,USB,2024-05-09,MXN,15200
+10,Fast Compute,US,Seattle,Object Storage,S3 Glacier,2024-05-10,USD,9800

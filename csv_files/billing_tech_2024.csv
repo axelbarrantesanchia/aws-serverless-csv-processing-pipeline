@@ -1,0 +1,16 @@
+id,company_name,country,city,product_line,item,bill_date,currency,bill_amount
+INV-37717,CoreStack,Canada,Toronto,Storage,Object Storage,2024-05-14,USD,2825.84
+INV-95677,CloudNova,Germany,Austin,Compute,Object Storage,2024-05-29,USD,2754.03
+INV-71162,CloudNova,Spain,Berlin,Storage,Object Storage,2024-05-06,USD,4072.11
+INV-58582,SkySystems,Spain,Austin,Storage,Firewall,2024-05-30,USD,3165.87
+INV-60379,NextLayer,Brazil,Berlin,Analytics,Load Balancer,2024-05-06,USD,270.67
+INV-72430,DataBridge,Spain,Berlin,Analytics,Data Warehouse,2024-05-04,CAD,2027.16
+INV-29100,NextLayer,USA,Austin,Analytics,Firewall,2024-05-27,CAD,4234.37
+INV-16168,DataBridge,USA,Austin,Analytics,VM Instance,2024-05-19,CAD,3103.24
+INV-34480,NextLayer,Brazil,Berlin,Networking,Load Balancer,2024-05-21,MXN,4964.15
+INV-80228,NextLayer,USA,Toronto,Networking,Load Balancer,2025-03-05,MXN,1641.81
+INV-16872,NextLayer,Germany,São Paulo,Analytics,Data Warehouse,2024-05-26,USD,1391.81
+INV-34571,NextLayer,Germany,São Paulo,Storage,Firewall, 20-03-2025,USD,164.81
+INV-55044,SkySystems,Brazil,Toronto,Analytics,Data Warehouse,2025-03-27,USD,4768.06
+INV-94618,CoreStack,Brazil,Berlin,Analytics,VM Instance,2025-06-27,USD,4707.41
+INV-51095,DataBridge,Brazil,Berlin,HR,Load Balancer,2025-07-20,USD,454.45
